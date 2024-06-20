@@ -3,7 +3,7 @@ services:
         build:
             context: .
             dockerfile: Dockerfile
-        container_name: av1_api
+        container_name: av2_api
         volumes:
             - .:/app
         ports:
@@ -17,7 +17,7 @@ services:
         environment:
             MONGO_INITDB_ROOT_USERNAME: root
             MONGO_INITDB_ROOT_PASSWORD: password
-            MONGO_INITDB_DATABASE: av1
+            MONGO_INITDB_DATABASE: av2
 
     mongo-express:
         image: mongo-express
