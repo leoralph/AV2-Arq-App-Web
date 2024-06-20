@@ -87,18 +87,18 @@ Este README fornece uma visão geral das rotas, separadas por função, e descre
 
 <img src="diagram.png"/>
 
-### Sumário
+### Resumo
 
-Aplicação Web para AV2 do Professor João Aramuni
+- Aplicação Web para AV2 do Professor João Aramuni
 
-Desenvolvida em Laravel e utiliza MongoDB como banco de dados.
+-Desenvolvida em Laravel e utiliza MongoDB como banco de dados.
 
-Documentação completa com diagramas de fluxo de requisições.
+- Documentação completa com diagramas de fluxo de requisições.
 
-Funcionalidades por função de usuário (admin, manager, seller, customer).
+- Funcionalidades por função de usuário (admin, manager, seller, customer).
 
-Autenticação com login e registro de usuários.
+- Autenticação com login e registro de usuários.
 
-CRUD completo para usuários, produtos e pedidos.
+- CRUD completo para usuários, produtos e pedidos.
 
-Tecnologias: Laravel, Laravel MongoDB, PHP, MongoDB.
+- Tecnologias: Laravel, Laravel MongoDB, PHP, MongoDB.
