@@ -91,7 +91,7 @@ Este README fornece uma visão geral das rotas, separadas por função, e descre
 
 - Aplicação Web para AV2 do Professor João Aramuni
 
--Desenvolvida em Laravel e utiliza MongoDB como banco de dados.
+- Desenvolvida em Laravel e utiliza MongoDB como banco de dados.
 
 - Documentação completa com diagramas de fluxo de requisições.
 
