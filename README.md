@@ -33,7 +33,7 @@ Este arquivo descreve as rotas API definidas em sua aplicação Laravel. Essas r
         -   `username`: Nome de usuário (obrigatório)
         -   `email`: Endereço de e-mail (obrigatório)
         -   `password`: Senha (obrigatório)
-        -   `role`: Função do usuário (opcional)
+        -   `role`: Função do usuário (obrigatório, entre admin, manager, seller, customer)
 
 **Função: admin**
 
@@ -86,3 +86,19 @@ Este README fornece uma visão geral das rotas, separadas por função, e descre
 ### Diagrama das requisições
 
 <img src="diagram.png"/>
+
+### Sumário
+
+Aplicação Web para AV2 do Professor João Aramuni
+
+Desenvolvida em Laravel e utiliza MongoDB como banco de dados.
+
+Documentação completa com diagramas de fluxo de requisições.
+
+Funcionalidades por função de usuário (admin, manager, seller, customer).
+
+Autenticação com login e registro de usuários.
+
+CRUD completo para usuários, produtos e pedidos.
+
+Tecnologias: Laravel, Laravel MongoDB, PHP, MongoDB.
